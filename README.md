@@ -1,4 +1,4 @@
-# Landscap-Generator
+# Landscape-Generator
 
 Landscape Generator ICPC Problem
 This repository contains the solution for the Landscape Generator problem as part of the International Collegiate Programming Contest (ICPC).
